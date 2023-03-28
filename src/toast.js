@@ -1,6 +1,6 @@
 const options = {
     position: 'top-right',
-    duration: 3000
+    duration: 5000
 };
 
 export default options;
